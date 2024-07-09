@@ -2,4 +2,4 @@
 
 <br>
 
-Autor (Shajalal)
+Creator (Shajalal)
